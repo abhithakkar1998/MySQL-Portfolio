@@ -1,5 +1,10 @@
 # MySQL Data Cleaning Project
-This repository contains code data cleaning project using SQL.
+This repository contains code data cleaning project using SQL. The DBMS used here is MySQL.
+The project covers the following aspects -
+* Data Loading
+* Modify/Update Data Types
+* Standardize Data
+* Handle Null & Blank Values
 
 These works are based on the original work created by the instructor of a YouTube video course. 
 While this content draws inspiration and incorporates elements from the video course, it is not an official representation of the course content and should not be mistaken as such. 
